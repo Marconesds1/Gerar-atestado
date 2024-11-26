@@ -1,0 +1,10 @@
+/* Estilos definidos anteriormente */
+body {
+  margin: 0;
+  padding: 20px;
+  min-height: 100vh;
+  background: #f0f2f5;
+  font-family: 'Arial', sans-serif;
+}
+
+/* ... o restante dos estilos do HTML */
